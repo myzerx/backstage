@@ -22,7 +22,7 @@
     "clean": "backstage-cli clean"
   },
   "dependencies": {
-    "@backstage/core-components": "^0.8.7",
+    "@backstage/core-components": "^0.8.8",
     "@backstage/core-plugin-api": "^0.6.0",
     "@backstage/plugin-catalog-react": "^0.6.13",
     "@backstage/theme": "^0.2.14",
