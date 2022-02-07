@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: starwars-graphql
+  name: starwars-api
   description: SWAPI GraphQL Schema
   links:
     - url: https://github.com/graphql/swapi-graphql
@@ -9,8 +9,8 @@ metadata:
       icon: github
 spec:
   type: graphql
-  lifecycle: production
-  owner: team-b
+  lifecycle: experimental
+  owner: team-a
   definition: |
     schema {
       query: Root
