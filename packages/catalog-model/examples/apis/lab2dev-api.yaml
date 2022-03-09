@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: component
 metadata:
   name: lab2dev-api
   description: This is a Test
