@@ -1,5 +1,5 @@
 apiVersion: backstage.io/v1alpha1
-kind: API
+kind: component
 metadata:
   name: streetlights
   description: The Smartylighting Streetlights API allows you to remotely manage the city lights.
